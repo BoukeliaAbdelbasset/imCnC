@@ -10,5 +10,14 @@
 <li> Maven </li>
 <li> Eclipse IDE </li>
 </center>
+<h2> Code Source </h2>
+The whole code source of project can be found in the Zip of imCnC.zip
+<2> Datasets </h2>
+There is two types of datasets to use in order to test imCnC 
+<h3> Epigenomics Data </h3>
+HHMD: Human Histone Modifications Database 
+DeepBlue: Epigenomics data i used the methylation of stem cells in this database
+<h3> ncRNAs Sequences </h3>
+RFAM : Data for base for non-coding RNAs
 <h2> How to cite </h2> 
 source .....
